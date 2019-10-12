@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "prohibitSound",
+    "texture": "39f07c79-8440-4314-9356-92554c1503a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      207
+    ]
+  }
+}

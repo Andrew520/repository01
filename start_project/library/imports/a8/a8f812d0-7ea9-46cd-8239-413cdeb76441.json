@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fly_coin",
+    "texture": "763bae74-9c18-4afe-9757-7f3a85cb4e23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      44
+    ]
+  }
+}

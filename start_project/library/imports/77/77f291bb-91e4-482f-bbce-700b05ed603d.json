@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TopBG",
+    "texture": "02a53cf9-6162-4842-92b2-c4d2d8c31863",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      115
+    ]
+  }
+}

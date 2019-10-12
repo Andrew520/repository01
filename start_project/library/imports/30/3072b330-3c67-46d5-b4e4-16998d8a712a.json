@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NoMovesLeft",
+    "texture": "18d889d2-b055-462f-b9a0-60a801415ae0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      688,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      688,
+      120
+    ]
+  }
+}

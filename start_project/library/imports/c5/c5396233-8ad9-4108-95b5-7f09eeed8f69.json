@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GridBG",
+    "texture": "05ffbd8d-ed03-4628-8f6f-b9f46011004e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      619,
+      860
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      619,
+      860
+    ]
+  }
+}

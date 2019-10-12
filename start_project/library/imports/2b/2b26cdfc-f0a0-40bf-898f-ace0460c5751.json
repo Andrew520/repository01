@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Cancle",
+    "texture": "cb8cf4c5-0c0f-4fee-97e7-db7dfa2139e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      207
+    ]
+  }
+}

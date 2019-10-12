@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HighScore",
+    "texture": "3bc82b0f-973c-403c-bd59-887c9c6088db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      37
+    ]
+  }
+}
